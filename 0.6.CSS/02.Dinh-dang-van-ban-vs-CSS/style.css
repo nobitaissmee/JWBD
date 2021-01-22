@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+.front {
+  display: flex;
+  background: lightblue;
+  margin-bottom: 10px;
+}
+
+.title1 {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.title2 {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.back {
+  background: lightcoral;
+}
