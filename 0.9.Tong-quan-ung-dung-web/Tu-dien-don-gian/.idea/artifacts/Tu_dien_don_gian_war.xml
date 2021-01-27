@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Tu-dien-don-gian:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Tu-dien-don-gian</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Tu-dien-don-gian-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Tu-dien-don-gian:war exploded" />
+    </root>
+  </artifact>
+</component>
