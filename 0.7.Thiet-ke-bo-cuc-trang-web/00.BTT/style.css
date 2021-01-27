@@ -79,7 +79,7 @@ body {
 
 .main-info {
   background: white;
-  height: 200px;
+  height: 250px;
 }
 
 .main-info {
@@ -113,7 +113,7 @@ body {
 .info-center p,
 .info-right p {
   width: 100%;
-  padding-bottom: 5%;
+  padding-bottom: 10%;
 }
 
 .info-bottom {
