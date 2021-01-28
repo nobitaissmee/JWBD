@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Ung-dung-Caculator:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Ung-dung-Caculator</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Ung-dung-Caculator-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Ung-dung-Caculator:war exploded" />
+    </root>
+  </artifact>
+</component>
