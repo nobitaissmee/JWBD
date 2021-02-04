@@ -18,8 +18,4 @@ public interface IUserDAO {
     public boolean updateUser(User user) throws SQLException;
 
     public List<User> selectUserByCountry(String country) throws SQLException;
-
-    public User getUserById(int id) throws SQLException;
-
-    public void insertUserStore(User user) throws SQLException;
 }
